@@ -1,7 +1,7 @@
 Quick Reacktion Game
 ===
 
-This is a simple gpio game for raspberry pi with Java.
+This is a simple gpio game for raspberry pi with Java and Pi4J. (inspired by http://www.raspberrypi.org/learning/quick-reaction-game)
 
 Requirements: 
 * raspberry pi 
